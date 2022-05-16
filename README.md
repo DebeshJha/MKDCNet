@@ -18,7 +18,7 @@ Qualitative result comparison of the model trained and tested on several medical
 
 ## Results (Qualitative results and Heatmap)
 
-Qualitative result comparison of the model trained and tested on several medical image segmentation dataset <br/>
+Qualitative results comparison along with the heatmap on the Kvasir-SEG, BKAI-IGH, and 2018 Data Science Bowl datasets.  The heatmaps provide insight into the intermediate feature maps from the multi scale feature fusion block.  The heatmap shows the \textit{region of interest} and its statistical significance and the color intensity shows the \textit{effect}. The \textit{red} and \textit{yellow} colors denote the most significant feature and the \textit{blue} color denote the least significance feature. <br/>
 <img src="qualitative-heatmap.jpg">
 
 
